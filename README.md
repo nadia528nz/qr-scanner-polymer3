@@ -1,6 +1,6 @@
 # QR code scanner written in Polymer 3
 This is a simple demo showing how to do create QR Scanner in Polymer 3. 
-It is written based on Polymer Starter Kit and Aaron Benjamin's tutorial. (see credit section below)
+It is written based on Polymer Starter Kit and Aaron Benjamin's tutorial, and the Javascript QR code library used is jsQR (see credit section below)
 You can check out a working demo here: [Polymer 3 QR Scanner](https://polymer-qr-demo.firebaseapp.com/)
 
 
@@ -30,4 +30,6 @@ routing for the app:
 ### Credit
 
 Written based on [Polymer App Toolbox - Starter Kit](https://travis-ci.org/Polymer/polymer-starter-kit) and this tutorial: [Make a Camera Web App — Tutorial / Part: 1](https://blog.prototypr.io/make-a-camera-web-app-tutorial-part-1-ec284af8dddf) created by Aaron Benjamin
+
+Javascript QR code library used: [jsQR](https://www.npmjs.com/package/jsqr)
 
